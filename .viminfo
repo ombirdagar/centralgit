@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q!
+|2,0,1750846050,,"q!"
 :wq!
 |2,0,1750845948,,"wq!"
 
@@ -25,22 +27,34 @@
 # Registers:
 
 # File marks:
-'0  2  5  ~/.gitignore
-|4,48,2,5,1750845948,"~/.gitignore"
-'1  1  22  ~/gitfile
-|4,49,1,22,1750837348,"~/gitfile"
-'2  74  28  /etc/sysctl.conf
-|4,50,74,28,1745565459,"/etc/sysctl.conf"
+'0  1  0  ~/file.txt
+|4,48,1,0,1750846050,"~/file.txt"
+'1  2  5  ~/.gitignore
+|4,49,2,5,1750845948,"~/.gitignore"
+'2  1  22  ~/gitfile
+|4,50,1,22,1750837348,"~/gitfile"
+'3  74  28  /etc/sysctl.conf
+|4,51,74,28,1745565459,"/etc/sysctl.conf"
 
 # Jumplist (newest first):
+-'  1  0  ~/file.txt
+|4,39,1,0,1750846050,"~/file.txt"
 -'  2  5  ~/.gitignore
 |4,39,2,5,1750845948,"~/.gitignore"
+-'  2  5  ~/.gitignore
+|4,39,2,5,1750845948,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1750845919,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1750845919,"~/.gitignore"
 -'  1  22  ~/gitfile
 |4,39,1,22,1750837348,"~/gitfile"
 -'  1  22  ~/gitfile
 |4,39,1,22,1750837348,"~/gitfile"
+-'  1  22  ~/gitfile
+|4,39,1,22,1750837348,"~/gitfile"
+-'  1  22  ~/gitfile
+|4,39,1,22,1750837348,"~/gitfile"
 -'  74  28  /etc/sysctl.conf
 |4,39,74,28,1745565459,"/etc/sysctl.conf"
 -'  74  28  /etc/sysctl.conf
@@ -49,6 +63,22 @@
 |4,39,74,28,1745565459,"/etc/sysctl.conf"
 -'  74  28  /etc/sysctl.conf
 |4,39,74,28,1745565459,"/etc/sysctl.conf"
+-'  74  28  /etc/sysctl.conf
+|4,39,74,28,1745565459,"/etc/sysctl.conf"
+-'  74  28  /etc/sysctl.conf
+|4,39,74,28,1745565459,"/etc/sysctl.conf"
+-'  74  28  /etc/sysctl.conf
+|4,39,74,28,1745565459,"/etc/sysctl.conf"
+-'  74  28  /etc/sysctl.conf
+|4,39,74,28,1745565459,"/etc/sysctl.conf"
+-'  1  0  /etc/sysctl.conf
+|4,39,1,0,1745565440,"/etc/sysctl.conf"
+-'  1  0  /etc/sysctl.conf
+|4,39,1,0,1745565440,"/etc/sysctl.conf"
+-'  1  0  /etc/sysctl.conf
+|4,39,1,0,1745565440,"/etc/sysctl.conf"
+-'  1  0  /etc/sysctl.conf
+|4,39,1,0,1745565440,"/etc/sysctl.conf"
 -'  1  0  /etc/sysctl.conf
 |4,39,1,0,1745565440,"/etc/sysctl.conf"
 -'  1  0  /etc/sysctl.conf
@@ -59,6 +89,10 @@
 |4,39,1,0,1745565440,"/etc/sysctl.conf"
 
 # History of marks within files (newest to oldest):
+
+> ~/file.txt
+	*	1750846049	0
+	"	1	0
 
 > ~/.gitignore
 	*	1750845946	0
